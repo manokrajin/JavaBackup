@@ -1,0 +1,12 @@
+Mahasiswa 1 :
+Nama : manok
+NIM : 12
+tinggi : 131
+berat : 65
+bmi : 98
+Mahasiswa 2 :
+Nama : japran
+NIM : 123
+tinggi : 41
+berat : 51
+bmi : 46
